@@ -2,7 +2,7 @@
 
 🎓 **Final Year B.Tech Student (CSE - Cyber Specialization)**  
 📍 Central University of Jammu, India  
-📧 [vienu549584@gmail.com](mailto:vienu549584@gmail.com) | 📱 +91-8977940415  
+📧 [vienu549584@gmail.com](mailto:jvienu549584@gmail.com) | 📱 +91-8977940415  
 🔗 [LinkedIn](https://linkedin.com/in/jithendravishnu) | [GitHub](https://github.com/Jithendra54)
 
 ---
@@ -60,7 +60,7 @@ An **IoT system** that detects hazardous gases and sends alerts in real-time to 
 I love collaborating on **tech projects, research, and innovative ideas**.  
 Feel free to reach out to discuss technology, internships, or collaborations!  
 
-📧 **Email:** [vienu549584@gmail.com](mailto:vienu549584@gmail.com)  
+📧 **Email:** [vienu549584@gmail.com](mailto:jvienu549584@gmail.com)  
 🌐 **GitHub:** [github.com/Jithendra54](https://github.com/Jithendra54)  
 🔗 **LinkedIn:** [linkedin.com/in/jithendravishnu](https://linkedin.com/in/jithendravishnu)
 
