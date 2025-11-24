@@ -3,7 +3,7 @@
 🎓 **Final Year B.Tech Student (CSE - Cyber Specialization)**  
 📍 Central University of Jammu, India  
 📧 [vienu549584@gmail.com](mailto:jvienu549584@gmail.com) | 📱 +91-8977940415  
-🔗 [LinkedIn](https://linkedin.com/in/jithendravishnu) | [GitHub](https://github.com/Jithendra54)
+🔗 [LinkedInhttps://www.linkedin.com/in/jithendra-vishnu-a48143313 | [GitHub](https://github.com/Jithendra54)
 
 ---
 
@@ -62,7 +62,7 @@ Feel free to reach out to discuss technology, internships, or collaborations!
 
 📧 **Email:** [vienu549584@gmail.com](mailto:jvienu549584@gmail.com)  
 🌐 **GitHub:** [github.com/Jithendra54](https://github.com/Jithendra54)  
-🔗 **LinkedIn:** [linkedin.com/in/jithendravishnu](https://linkedin.com/in/jithendravishnu)
+🔗 **LinkedIn:** [linkedin.com/in/jithendravishnu](https://www.linkedin.com/in/jithendra-vishnu-a48143313)
 
 ---
 
